@@ -195,6 +195,7 @@ const [firstGame, secondGame] = sortedGames;
 
 console.log(firstGame);
 console.log(secondGame);
+console.log();
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
 let firstGameElement = document.createElement("div");
