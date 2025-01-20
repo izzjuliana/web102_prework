@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://imgur.com/a/VH9yBNM"/>
+![WebsiteRecording](https://github.com/user-attachments/assets/530fd64a-d929-4ab6-a95a-24a7c1a503a8)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
