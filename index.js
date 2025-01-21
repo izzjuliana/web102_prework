@@ -176,7 +176,7 @@ let unfundedDisplayString = `A total of $${totalRaised.toLocaleString()} has bee
 // create a new DOM element containing the template string and append it to the description container
 let unFundedElement = document.createElement("p");
 unFundedElement.textContent = unfundedDisplayString;
-unFundedElement.classList.add("description");
+descriptionContainer.appendChild(unFundedElement);
 /************************************************************************************
  * Challenge 7: Select & display the top 2 games
  * Skills used: spread operator, destructuring, template literals, sort 
